@@ -79,6 +79,3 @@ Example:
 would display every category title inside of a  \<h2\> tag.
 
 Loops must always be terminated by `{% end %}`.
-
-## Author
-wster
