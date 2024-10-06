@@ -1,5 +1,6 @@
 # boats2
 Turn your Bots into HTML
+![Example output](https://files.catbox.moe/18eogg.jpg)
 
 ## Description
 boats2.pl is a utility to generate an HTML page to display Tavern character
